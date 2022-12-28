@@ -1,0 +1,3 @@
+[submodule "event-based-iac-provisioning"]
+	path = event-based-iac-provisioning
+	url = git@github.com:jsmithdenverdev/event-based-iac-provisioning.git
